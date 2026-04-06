@@ -1,21 +1,21 @@
-# 🔐 Password Vault Desktop Application (Java)
+#  Password Vault Desktop Application (Java)
 
-## 📌 Project Overview
+##  Project Overview
 The **Password Vault Desktop Application** is a secure Java-based software designed to help users store, manage, and protect their sensitive credentials such as passwords, usernames, and other confidential information. The application focuses on simplicity, security, and ease of use, making it suitable for everyday personal or academic use.
 
 ---
 
-## 🚀 Features
-- 🔑 Secure storage of passwords and credentials  
-- 🖥️ User-friendly desktop interface  
-- 🔍 Search and retrieve saved credentials easily  
-- 🔒 Basic encryption for enhanced security  
-- ➕ Add, update, and delete entries  
-- 📂 Organized credential management  
+## Features
+- Secure storage of passwords and credentials  
+-  User-friendly desktop interface  
+-  Search and retrieve saved credentials easily  
+-  Basic encryption for enhanced security  
+-  Add, update, and delete entries  
+-  Organized credential management  
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Programming Language:** Java  
 - **GUI Framework:** Java Swing / JavaFX  
 - **IDE:** IntelliJ IDEA / Eclipse / NetBeans  
@@ -23,7 +23,7 @@ The **Password Vault Desktop Application** is a secure Java-based software desig
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 PasswordVault/
 │── src/
 │ ├── main/
@@ -34,7 +34,7 @@ PasswordVault/
 │── build files
 ---
 
-## ⚙️ Installation & Setup
+## Installation & Setup
 1. Clone or download the project repository  
 2. Open the project in your preferred Java IDE  
 3. Ensure Java (JDK 8 or above) is installed  
@@ -42,7 +42,7 @@ PasswordVault/
 
 ---
 
-## ▶️ Usage
+##  Usage
 1. Launch the application  
 2. Create or log in to your vault  
 3. Add new credentials (website, username, password)  
@@ -51,7 +51,7 @@ PasswordVault/
 
 ---
 
-## 👨‍💻 Contributors
+## Contributors
 
 | Registration Number | Name            |
 |---------------------|-----------------|
@@ -63,12 +63,12 @@ PasswordVault/
 
 ---
 
-## 🔒 Security Note
+## Security Note
 This application provides basic encryption for educational purposes. For production-level security, advanced encryption standards and secure storage mechanisms are recommended.
 
 ---
 
-## 📌 Future Enhancements
+##  Future Enhancements
 - Strong encryption (AES-based security)  
 - Cloud synchronization  
 - Multi-user support  
@@ -77,10 +77,10 @@ This application provides basic encryption for educational purposes. For product
 
 ---
 
-## 📄 License
+##  License
 This project is developed for academic purposes and is not intended for commercial use.
 
 ---
 
-## 🙌 Acknowledgment
+##  Acknowledgment
 This project was developed as part of academic coursework to demonstrate practical implementation of Java-based desktop applications and basic cybersecurity concepts.
