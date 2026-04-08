@@ -1,0 +1,5 @@
+1. Python3.x
+2. Mysql
+3. tkinter
+4. cryptography
+5. mysql-connector-python
